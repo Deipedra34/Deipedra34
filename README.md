@@ -17,7 +17,7 @@ I'm a systems-minded engineer who moves comfortably between low-level infrastruc
 - 🤖 Robot programming & CAD lead on **Golden Horn**, FRC Team **#8159** (Istanbul, Turkey)
 - 🔐 Backend & systems developer with a growing focus on **cybersecurity**
 - 🛠️ Currently building rate limiters, network intrusion detection systems, and AI-powered tracking hardware
-- 🌍 Native Turkish speaker; I write code and documentation in English
+- 🌍 I write code and documentation in English
 - ⚡ Not a web developer by trade — but I've shipped a few production sites anyway
 
 <br/>
