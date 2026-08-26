@@ -65,7 +65,7 @@ I'm a systems-minded engineer who moves comfortably between low-level infrastruc
 
 ![Stars](https://img.shields.io/github/stars/Deipedra34/Gatekeeper?style=flat-square&color=7c3aed&label=Stars) ![Last Commit](https://img.shields.io/github/last-commit/Deipedra34/Gatekeeper?style=flat-square&color=7c3aed&label=Last%20Commit) ![License](https://img.shields.io/github/license/Deipedra34/Gatekeeper?style=flat-square&color=7c3aed&label=License)
 
-Go-based rate limiter & API gateway — token bucket / sliding window / fixed window algorithms, Redis-backed storage with automatic failover, reverse proxy, per-client tiers, Prometheus metrics. `v1.0.0` released under MIT.
+Go-based rate limiter & API gateway — token bucket / sliding window / fixed window algorithms, Redis-backed storage with automatic failover, reverse proxy, per-client tiers, Prometheus metrics. `v1.1.0` released under MIT.
 
 ---
 
