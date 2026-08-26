@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:7c3aed&height=200&section=header&text=Kadim%20%7C%20Deipedra34&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Robotics%20and%20Systems%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:7c3aed&height=200&section=header&text=Kadim%20%7C%20Deipedra34&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Student%20Developer%20%7C%20Robotics%20and%20Systems%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=FRC+%238159+Golden+Horn+%E2%80%94+Robot+Programming+%26+CAD;Building+Gatekeeper+%E2%80%94+a+Go+rate+limiter+%2F+API+gateway;Building+NetSentry+%E2%80%94+a+Python+network+IDS;Shipping+a+Pi+5+%2B+Hailo+AI+pan-tilt+tracker" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm a systems-minded engineer who moves comfortably between low-level infrastructure and physical hardware — from building rate limiters and intrusion detection tools to programming and CADing competition robots.
+I'm a systems-minded student developer who moves comfortably between low-level infrastructure and physical hardware — from building rate limiters and intrusion detection tools to programming and CADing competition robots.
 
 - 🤖 Robot programming & CAD lead on **Golden Horn**, FRC Team **#8159** (Istanbul, Turkey)
 - 🔐 Backend & systems developer with a growing focus on **cybersecurity**
