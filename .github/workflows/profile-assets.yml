@@ -33,6 +33,8 @@ jobs:
 
       - name: Generate animated stats card SVG
         run: node .github/scripts/generate-stats-card.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push generated files to the "output" branch
         uses: crazy-max/ghaction-github-pages@v4

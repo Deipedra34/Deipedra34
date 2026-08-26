@@ -6,18 +6,21 @@ const BG = "#0d1117";
 const BORDER = "#21262d";
 const TEXT = "#c9d1d9";
 const MUTED = "#8b949e";
+const TOKEN = process.env.GITHUB_TOKEN;
+const BROWSER_UA =
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
 async function fetchJSON(url) {
-  const res = await fetch(url, {
-    headers: { "User-Agent": USERNAME, Accept: "application/vnd.github+json" },
-  });
-  if (!res.ok) throw new Error(`${url} -> ${res.status}`);
+  const headers = { "User-Agent": BROWSER_UA, Accept: "application/vnd.github+json" };
+  if (TOKEN) headers.Authorization = `Bearer ${TOKEN}`;
+  const res = await fetch(url, { headers });
+  if (!res.ok) throw new Error(`${url} -> ${res.status} ${res.statusText}: ${await res.text()}`);
   return res.json();
 }
 
 async function fetchText(url) {
-  const res = await fetch(url, { headers: { "User-Agent": USERNAME } });
-  if (!res.ok) throw new Error(`${url} -> ${res.status}`);
+  const res = await fetch(url, { headers: { "User-Agent": BROWSER_UA } });
+  if (!res.ok) throw new Error(`${url} -> ${res.status} ${res.statusText}: ${(await res.text()).slice(0, 300)}`);
   return res.text();
 }
 
