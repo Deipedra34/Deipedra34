@@ -196,6 +196,6 @@ async function main() {
 }
 
 main().catch((err) => {
-  console.error(err);
+  console.log(`::error::${err.stack || err.message}`.replace(/\n/g, "%0A"));
   process.exit(1);
 });
