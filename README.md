@@ -61,57 +61,15 @@ I'm a systems-minded engineer who moves comfortably between low-level infrastruc
 
 <div align="center">
 
-### 🚦 [Gatekeeper](https://github.com/Deipedra34/Gatekeeper)
-
-![Stars](https://img.shields.io/github/stars/Deipedra34/Gatekeeper?style=flat-square&color=7c3aed&label=Stars) ![Last Commit](https://img.shields.io/github/last-commit/Deipedra34/Gatekeeper?style=flat-square&color=7c3aed&label=Last%20Commit) ![License](https://img.shields.io/github/license/Deipedra34/Gatekeeper?style=flat-square&color=7c3aed&label=License)
-
-Go-based rate limiter & API gateway — token bucket / sliding window / fixed window algorithms, Redis-backed storage with automatic failover, reverse proxy, per-client tiers, Prometheus metrics. `v1.0.0` released under MIT.
-
----
-
-### 🛡️ [NetSentry](https://github.com/Deipedra34/NetSentry)
-
-![Stars](https://img.shields.io/github/stars/Deipedra34/NetSentry?style=flat-square&color=7c3aed&label=Stars) ![Last Commit](https://img.shields.io/github/last-commit/Deipedra34/NetSentry?style=flat-square&color=7c3aed&label=Last%20Commit) ![License](https://img.shields.io/github/license/Deipedra34/NetSentry?style=flat-square&color=7c3aed&label=License)
-
-Scapy-based Python network intrusion detection system — port scan / ARP spoofing / SYN flood detection, SQLite logging, Flask dashboard + CLI.
-
----
-
-### 🤖 [Golden Horn Robot Code](https://github.com/Deipedra34/ExampleRobotCode2026Season)
-
-![Stars](https://img.shields.io/github/stars/Deipedra34/ExampleRobotCode2026Season?style=flat-square&color=7c3aed&label=Stars) ![Last Commit](https://img.shields.io/github/last-commit/Deipedra34/ExampleRobotCode2026Season?style=flat-square&color=7c3aed&label=Last%20Commit) ![License](https://img.shields.io/github/license/Deipedra34/ExampleRobotCode2026Season?style=flat-square&color=7c3aed&label=License)
-
-Java-based FRC robot control system for Team #8159 (Istanbul), built on WPILib with a command-based architecture, running a full CTRE ecosystem (Kraken/Falcon motors, TalonFX, Phoenix tooling). CAD designed in OnShape.
-
----
-
-### 🔎 [ForensicLens](https://github.com/Deipedra34/ForensicLens)
-
-![Stars](https://img.shields.io/github/stars/Deipedra34/ForensicLens?style=flat-square&color=7c3aed&label=Stars) ![Last Commit](https://img.shields.io/github/last-commit/Deipedra34/ForensicLens?style=flat-square&color=7c3aed&label=Last%20Commit) ![License](https://img.shields.io/github/license/Deipedra34/ForensicLens?style=flat-square&color=7c3aed&label=License)
-
-Cross-platform image forensics toolkit written in Swift — Error Level Analysis, EXIF metadata inconsistency detection, and copy-move region detection combined into a single suspicion score.
-
----
-
-### 🎯 Pan-Tilt Tracker
-
-Real-time object tracking on a Raspberry Pi 5 + Hailo-8L AI kit, click-to-select bounding-box targeting with search-sweep re-acquisition.
-
----
-
-### 📟 [FRC Pit Terminal](https://github.com/Deipedra34/FRC_pit_terminal)
-
-![Stars](https://img.shields.io/github/stars/Deipedra34/FRC_pit_terminal?style=flat-square&color=7c3aed&label=Stars) ![Last Commit](https://img.shields.io/github/last-commit/Deipedra34/FRC_pit_terminal?style=flat-square&color=7c3aed&label=Last%20Commit) ![License](https://img.shields.io/github/license/Deipedra34/FRC_pit_terminal?style=flat-square&color=7c3aed&label=License)
-
-WiFi-configurable ESP8266 pit terminal for FRC teams — live match data, results, and ranking points via The Blue Alliance API.
-
----
-
-### 🎣 [PhishNet Detector](https://github.com/Deipedra34/PhishNet-Detector)
-
-![Stars](https://img.shields.io/github/stars/Deipedra34/PhishNet-Detector?style=flat-square&color=7c3aed&label=Stars) ![Last Commit](https://img.shields.io/github/last-commit/Deipedra34/PhishNet-Detector?style=flat-square&color=7c3aed&label=Last%20Commit) ![License](https://img.shields.io/github/license/Deipedra34/PhishNet-Detector?style=flat-square&color=7c3aed&label=License)
-
-Java CLI tool that detects phishing links and emails — flags typosquatting, spoofed senders, malicious URLs, and SSL anomalies with a weighted risk-scoring engine.
+| | Project | Stack | Description |
+|:---:|---|:---:|---|
+| 🚦 | **[Gatekeeper](https://github.com/Deipedra34/Gatekeeper)** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Rate limiter & API gateway — token bucket / sliding / fixed window, Redis-backed with automatic failover, Prometheus metrics. `v1.1.0`, MIT. |
+| 🛡️ | **[NetSentry](https://github.com/Deipedra34/NetSentry)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Network intrusion detection system — port scan / ARP spoofing / SYN flood detection, Flask dashboard + CLI. |
+| 🤖 | **[Golden Horn Robot Code](https://github.com/Deipedra34/ExampleRobotCode2026Season)** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | FRC #8159 competition robot code — WPILib, command-based architecture, full CTRE ecosystem. CAD in OnShape. |
+| 🔎 | **[ForensicLens](https://github.com/Deipedra34/ForensicLens)** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) | Image forensics toolkit — Error Level Analysis, EXIF inconsistency and copy-move detection, unified suspicion score. |
+| 🎯 | **Pan-Tilt Tracker** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Real-time object tracking on a Pi 5 + Hailo-8L AI kit, click-to-select targeting with search-sweep re-acquisition. |
+| 📟 | **[FRC Pit Terminal](https://github.com/Deipedra34/FRC_pit_terminal)** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | WiFi-configurable ESP8266 pit terminal — live match data, results, and ranking points via The Blue Alliance API. |
+| 🎣 | **[PhishNet Detector](https://github.com/Deipedra34/PhishNet-Detector)** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Phishing link & email detector — typosquatting, spoofed senders, and SSL anomalies with a weighted risk-scoring engine. |
 
 </div>
 
