@@ -61,9 +61,11 @@ I'm a systems-minded engineer who moves comfortably between low-level infrastruc
 
 <div align="center">
 
-<a href="https://github.com/Deipedra34/Gatekeeper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deipedra34&repo=Gatekeeper&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed" />
-</a>
+[![Gatekeeper](https://img.shields.io/badge/Gatekeeper-Go%20Rate%20Limiter%20%26%20API%20Gateway-7c3aed?style=for-the-badge&logo=go&logoColor=white)](https://github.com/Deipedra34/Gatekeeper)
+
+![Stars](https://img.shields.io/github/stars/Deipedra34/Gatekeeper?style=flat-square&color=7c3aed&label=Stars)
+![Last Commit](https://img.shields.io/github/last-commit/Deipedra34/Gatekeeper?style=flat-square&color=7c3aed&label=Last%20Commit)
+![License](https://img.shields.io/github/license/Deipedra34/Gatekeeper?style=flat-square&color=7c3aed&label=License)
 
 </div>
 
@@ -80,20 +82,10 @@ I'm a systems-minded engineer who moves comfortably between low-level infrastruc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deipedra34&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deipedra34&theme=dark&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" width="48%" />
+![Followers](https://img.shields.io/github/followers/Deipedra34?style=for-the-badge&color=7c3aed&logo=github&label=Followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=7c3aed&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FDeipedra34)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deipedra34&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" width="45%" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deipedra34&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deipedra34&theme=dark&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" width="60%" />
 
 </div>
 
