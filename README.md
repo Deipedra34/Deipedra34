@@ -63,7 +63,7 @@ I'm a systems-minded student developer who moves comfortably between low-level i
 
 | | Project | Stack | Description |
 |:---:|---|:---:|---|
-| 🚦 | **[Gatekeeper](https://github.com/Deipedra34/Gatekeeper)** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Rate limiter & API gateway — token bucket / sliding / fixed window, Redis-backed with automatic failover, Prometheus metrics. `v1.2.0`, MIT. |
+| 🚦 | **[Gatekeeper](https://github.com/Deipedra34/Gatekeeper)** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) | Rate limiter & API gateway — token bucket / sliding / fixed window, Redis-backed with automatic failover, Prometheus metrics. `v1.7.0`, MIT. |
 | 🛡️ | **[NetSentry](https://github.com/Deipedra34/NetSentry)** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Network intrusion detection system — port scan / ARP spoofing / SYN flood detection, Flask dashboard + CLI. |
 | 🤖 | **[FRC 2026 Season Robot Code](https://github.com/Deipedra34/ExampleRobotCode2026Season)** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | FRC competition robot code — WPILib, command-based architecture, full CTRE ecosystem. CAD in OnShape. |
 | 🔎 | **[ForensicLens](https://github.com/Deipedra34/ForensicLens)** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) | Image forensics toolkit — Error Level Analysis, EXIF inconsistency and copy-move detection, unified suspicion score. |
