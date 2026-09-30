@@ -15,7 +15,7 @@
 I'm a systems-minded student developer who moves comfortably between low-level infrastructure and physical hardware — from building rate limiters and intrusion detection tools to programming and CADing competition robots.
 
 - 🤖 Robot programming & CADing on **Golden Horn**, FRC Team **#8159** (Istanbul, Turkey)
-- 🔐 Backend & systems developer with a growing focus on **cybersecurity**
+- 🔐 Backend & systems developer with a growing focus on **cybersecurity**.
 - 🛠️ Currently building rate limiters, network intrusion detection systems, and AI-powered tracking hardware
 - 🌍 I write code and documentation in English
 - ⚡ Not a web developer by trade — but I've shipped a few production sites anyway
